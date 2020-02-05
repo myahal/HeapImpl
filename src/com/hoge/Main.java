@@ -1,4 +1,4 @@
-package com.company;
+package com.hoge;
 
 public class Main {
 
